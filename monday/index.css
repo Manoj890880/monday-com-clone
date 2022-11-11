@@ -338,3 +338,42 @@ h2{
     text-decoration: none;
     
 }
+.endfoot{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.endfoot img{
+    width: 80%;
+}
+.endfoot div:nth-child(1){
+    font-size: 20px;
+    margin-left: 20px;
+    /* border: 1px solid red; */
+    height: auto;
+    width: 20%;
+}
+.endfoot div:nth-child(1) a{
+    padding-left: 15px;
+}
+.endfoot div:nth-child(2){
+    font-size: 25px;
+    /* border: 1px solid red; */
+    width: 40%;
+}
+.endfoot div:nth-child(2) a{
+    padding-left: 15px;
+}
+.endfoot div:nth-child(3){
+    /* border: 1px solid red; */
+    width: 12%;
+    
+    
+}
+.endfoot>#reduce{
+    font-size: 13px;
+    
+}
+.endfoot>#reduce a{
+    
+}

@@ -1,0 +1,33 @@
+.login{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(241, 231, 239);
+}
+.login>img{
+    margin-top: 15px;
+    margin-left:10px ;
+}
+.loginbox{
+    width: 40%;
+    height: 500px;
+    /* background-color: blueviolet; */
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(26, 25, 25);
+    margin-top: 80px;
+}
+.loginbox>a>div,.loginbox>a>div>button{
+    display: flex;
+    gap: 10px;
+    margin: auto;
+}
+.loginbox>a>div>button div{
+    margin-top: 5px;
+}
+.loginbox a{
+    text-decoration: none;
+}
+.loginbox>a>div>button{
+    padding: 7px;
+}
