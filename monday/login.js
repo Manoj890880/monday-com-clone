@@ -1,14 +1,17 @@
+let customerEmail_arr=JSON.parse(localStorage.getItem("customerEmail"))
+console.log(customerEmail_arr)
 
-let data=localStorage.getItem("customerEmail")||[]
+
 
 function myfun(){
     let email=document.querySelector("#email").value
-    console.log(email)
-    let customer=''
-    let obj={
-        customerEmail:email,
-        customer
+    if(customerEmail_arr.includes(email)){
+        window.location.href="login2.html"
     }
-    data.push(obj)
-    localStorage.setItem("customerEmail",data)
+    else{
+        alert("Please enter correct email")
+    }
 }
+
+
+
