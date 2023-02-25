@@ -1,1 +1,49 @@
-# tenuous-grain-2361
+
+# Monday.com-Website-Clone
+
+### What is Monday.com ?
+#### Monday.com is a cloud-based project management tool designed to help teams of all sizes plan, organize, and track their work in a collaborative and transparent way. With its intuitive interface and extensive range of features, Monday.com enables teams to manage everything from simple to complex projects, and is used by businesses in a wide range of industries..
+
+
+### What is Myntra used for?
+#### With monday.com, teams can create boards to represent their projects, tasks, or workflows, and customize them according to their needs. They can add columns to represent different data types such as text, numbers, dates, and more. They can also create custom automation rules to streamline their workflow and integrate with other tools they use..
+
+## About :-
+### Form validation is available.
+### All pages are responsive only.
+
+
+### TechStack :- HTML , CSS , JAVASCRIPT .
+
+### Netlify link :- https://candid-concha-6e27ec.netlify.app/
+
+## This is landing page of my website
+
+#### At navbar , there are things like Products,Use Cases,Features,Resources,Pricing,Contact Sales you choose.
+![Landing](https://lh3.googleusercontent.com/gOPo9T1zU-FAYq3lE2FN5Pfu7gCrLMQmXv_pRMk6RlJGSkN2oEgy-mhGwvcZUSHxWJmrKnJNnLTwvdx6YbeL46Hl3myDF4OrJ7vSx4LuCll0xEXQwVzHlovqXPAa7LbEZWpTgqkUIFLXRfIxmE0SSjQCd391DhXcaO5LZeILXCzvuwDJJvxRX3umKB8pi60vFNJv51H3GbxY0Lu_IVK41TKKcf0FN4w9YdraJyvvAeQKC2vwg0SJ6rDeuzM2frV7uWtHbFzjy-cwMGPrXm44mHZPSw5Aem8IaExGvbE4qVBdU5WuiyLuWYDg18otQgWL_y47C0MwRlt8Xz4jbHk7VGTp-32AQvFahqJTLkhN4aArfgzL8anFSchAOZT8kVbqDEWihJGm56q4wsx--XSFpMYXVFhJ8rX7GsWLi1pf4bsMyiSSDLko46YcfCOVqQ4-EFEKOr14WJhn2rFid775UF06DgivyTmEqC1D8Lk5MykZoukZEerL4QuL0xSVL_W6PTIIkBUdaGKO6hDHWffBKhvLba9gOMtNtARAUFJEfrzyNypBVUHG8_kgWqcD_xqUaaBu2K62nDEKUafQt3mkJ8TEQ-FDWeSXue_XGBeqrmPkMZ1tMGk1kx9SDvxWwPuVxZd-t-joeLsyFf9g4ndzmHWSfPy3xnlNF6vFRWq5iKxmQcDn26D9NYHx0Cj_nIC9Q03yZbCX2OE6IZgI7oZR0Aspp38YomL6Zx2LP0W2MhNhDA5VpAW4mVuGupbh-lAgn9GukU2IVmK7aGJvydCm64_nSTPmjvu2ZZRKc959xEWQCroimGXEkRYfXq106OmJrmfnpJo5zh-z-vhL5CcL4pOiSlXBpCTr7AJCufURrbptcDyaSeuWUhXSfeO0AtPpEYkpjahw8ZvO-zugv4hZxCEJ0dxtuuuGGRQLR0s=w1364-h616-no?authuser=0)
+
+</br>
+
+## This is SignIn or LogIn Page, it have also form validation.
+![SignIn](https://lh3.googleusercontent.com/f7BpG6HCJnFstH8sbtfjV7fc4jprrOV2Fj7jK5b3CaQjOkRs9EL0qjVmI7JHK9ekkIm1Qt8Ale8pgo33DBJ3gpJ0dH-qVA2T4-CiMTdbS9-yAGy9Eqv3Nvh90mI3vYkNgMYhgLP5s5r1QWxTRYUny7SSGTIWB69f9lev8jsuNWIXQRCj4Hnfnc1N-9UYDMQNKOaWLsCVUmsn9QoJTdx9GtJHCw4c2hB2flN_B-yysbHB3Ztxj6t6OUx7iJxix9uaXFrhZvFD5iaA11BZ8BLrUKE_X3D1rNGt-ypiccM6UjMucFN0LBfe51r-M1XcDzrkOJA4qergg8_z2FC56WsuT08uXSDjH7d7vK3pYtVnzXSd5eeH5f3d6ddhCz4_NIXed2MPYxu1J41TjedV-_FGliArcycvhadc4mOU58QSzE416PTPsdzX2S85AbPEls08hkPRyk2oqZXIrns2oud0uem3CUyqOvZ7mSFYOxFqIWmmc9RrMJF2AjaFce-56mN5VwOD8HWlD95fLdoZp9DEmUtGyYknGtxZg8aVkwCDW1ikf1cSZl0Bl8C6YM8KgixhBHTKN3RaW7mek1SEO114NVGm8EzJ2eoEbp40m829PwBS9dLZuba2PmyhOUWT8SNST2Fl2BKKT6IzPCjnRyxzRkfUzXpHrtL3zFtAZAwsW91snDtdZHNAYjRH7k6el2y86hBIH9xqWpXMJDeAiXzFDj3Rk2ZYRzDF6si1ckmsvSZp1FPmVnxc0Y8MA1YHkJNqnCcULLFqF3lG2eemTu9gTS-FaOeZVCPh5kpzkMrsz_qCH4zYvB-QxDKZRoLg6SRY534H1kC3JAXBX-7jjXzbXgtgzjLwGDexWn11eOIkNGhz8fGpxFq4fClIR0krbQSeigrSNf6PeAUUdGyhW8rNtPv9kZj5qR4HrCT6cC0=w1366-h617-no?authuser=0)
+
+<br/>
+
+## This is work page where you can centralize your workflow.
+![Products](https://lh3.googleusercontent.com/xg5_Tl26v_e2HXFWQpYdAJaE4PGrJzT2WCKM6w4L5-84o7TwO9NLbnFEjZiqXmF2pXCJEoib8a7PdDsLxG5fcXEGm9HPLKt4pN53A_2g9BO6gc6hZyb3ojrSYpIATshcboB103rQDBd86KyzYGcpv7zvc5XvbJc-KsSQbSmFyxhhkHJ5MqviSInTLLvaV2t6veIgI_yoIv6NC8Xc8eNxflF3q2WRntl3voF496iDYdj7AGuOX98VrCwwhZIIJ47DMNLKv5GFK8ViwzU8OI14kSYoQxZui5qoPqBA4IRJkw6-PdZt02F1nKJgXCENsAVBytqwbDVxceDRnvNetIp883fjWj0sg0uDEGpftdJaW8we2SiD87-cTG3D95yjUdrJswcurWpNcCP3xS1FGk2d6tK4G_URAroLWm2XmtGIgojytklSCF8JLhMCmGpfTQikbAUYZ4bXXLK53aa97NqsGx-T7CYK2FKLmTlmG7Nwhv30y3_FCMjQtjbGEhb0cXlAYpa-2vXEVRu9yrBrQ7TB2_14cR9nmCySKOThshD10otytyObfNpONGDlthUIKOR5kmWM8Vi6OsPAHnpGBynR4p4ZG4ZOidtf63zPmBlJnR42s0513wAIIDNsVZfZD98xDMGf-Y5MP-_T30tTQFwje0ElJxvnyIEjN3gctUpI7d1gWWyxybyY9Lr-SLfKV_uwqt8ib33qZwiZglTd1-M2rgh11U0Gn5kyLdTm5NJQwuOSQJ7EWwCnsCyTrCNO2oeGuiyu5jnfHOnbbzBPxnfQrGc_4iHPeL367TYGU3wA_xyhNWP0iL87lmJj1tWaHiKZ0Gnw23rOaB3HnPlYfaBnmFu5pzkhAQWRSSXezvA3cjD_4qnKnwmfR7t_JqYJmhGq0BA4Rlb3xr2rLyNfuGHEc-IqYFCZef27gyIcEnI=w1366-h612-no?authuser=0)
+
+<br/>
+
+
+## This is footer section of landing page, this application is available on playstore as well as app store.
+
+![Footer](https://lh3.googleusercontent.com/8C1vNVS6SFgKZZf6hQ0EoHgGQGUAPIWSMWEUbJmoAqjsJgC_K15Pr3Oaz8XBQ7ihxap24lKIXIvVrimiT9JbS5Su6zkZy9-hp1dWh0DciviGkgSMIxy_zFxMPhvdLPNrmKxUtPA-L3Pu9uOtYE6kHp8HCXsWw9U6b-1Y7KTGZistKfqgO4rsWB_ZoWGUyMNeZ4mOPKRY6PZtzUK5npug02W1AhekvcpX2ZcxyPJJFJua-aXn5w6KlQsQl-CbIUjDvY1hHItq7JfGal7nBR3Xme4FVnj_tERw3Q7Fvtnf1AQs3B2_wRpGvwjVwdDGjDKKG3TAhUHUeU_jxqDsboMRCYsvzvpJhkNq9j_vNCJ3PgvSuFklkYopT2gsYK7ta4OqRAuBnolyUU7OyZqCveivPeE7YlembYqtL6Xi1_bHLfo_OqLnd09W9EI5HT91VapbqtdID0wVuJZ9v7F5kJzeW5SaEjlFcWX9ssOavHKqHm6CIgwfLBUCfsIfpx-PKavwduWBgNset3WfjZoK3yVnFDgRPVzx4hObSJs-fZAm6Skb3WSXGupHRoT_PnKBx6MTgCnusTPmqevBmZ-Hbz387AKXwXrWQc8nas6TQSCYKwLa8Ieom5sS8VkRkAo2-UOB5KOsqrXVJNNXamasbLUYRTJGaFEtcUQ1XRgz1rLW0H2JlGIPjCTPeiBUKmL6jY0oeY47VpMApPMaPT35HKpNRWpH9pl8f3_mVpYKZFqo9uMLLRHdcZIjzsUKrM0Gs-AkgVtv5IFZcAHLYgektLzZi6UxiGyxBD9p2w35pjX1mTlamxmOCaAvF7ZBHTS9RXyUFgswCYGzvC5URWwfR35OKZGt6USEj8vRJuNm9evAxnYh74qJFEoZcziA6YahOZWUfZFBQrT1qfBGk73iKY3U7Hg3UWul__beCwtmnF8=w1356-h617-no?authuser=0)
+
+</br>
+
+### It is a solo project.I had completed within 5 days.This is all about my project.
+
+</br>
+
+## Thanks for visiting my project.
+
